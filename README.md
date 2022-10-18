@@ -3,6 +3,11 @@
 <p align="center">
 
   <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Coder GIF" width="500" height="400">
+  
+
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="60" height="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="45"></a></code>
 
 <!--
 **TheHatipoglu/TheHatipoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
