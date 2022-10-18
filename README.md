@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+
+
+
+<div align="center">
+
+
+
+
+
+[![Rafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHatipoglu&show_icons=true&theme=radical)
+](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheHatipoglu&theme=highcontrast)](https://git.io/streak-stats)
+
+
+
+
+</div>
