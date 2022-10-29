@@ -9,7 +9,7 @@
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="60" height="60"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="45"></a></code>
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" height="52"></a></code>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="java" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="java" width="55" height="50"/>
 <!--
 **TheHatipoglu/TheHatipoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
