@@ -2,7 +2,6 @@
 
 <p align="center">
 
-  <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Coder GIF" width="500" height="400">
   
 
 <p align="center">
@@ -11,6 +10,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" height="52"></a></code>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="java" width="55" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="java" width="55" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="java" width="50" height="50"/>
 
 
 
