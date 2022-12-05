@@ -5,13 +5,13 @@
   
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="60" height="60"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="45"></a></code>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" height="52"></a></code>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="java" width="55" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="java" width="55" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="java" width="50" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="java" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="25"></a></code>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" height="32"></a></code>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="java" width="35" height="30"/>
+      <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="java" width="35" height="30"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="java" width="30" height="30"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="java" width="30" height="30"/>
 
 
 
