@@ -28,6 +28,8 @@
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheHatipoglu&theme=highcontrast)
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHatipoglu&layout=compact&langs_count-16&theme=highcontrast"/>
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHatipoglu&show_icons=true&theme=radical)
 
 
 
