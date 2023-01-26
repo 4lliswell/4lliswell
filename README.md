@@ -7,7 +7,7 @@
 
 <p align="center">
       <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="50px" height="50px"></a>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="35"></a></code>
+      <a href="https://www.selenium.dev/" title="Selenium"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/selenium.svg" alt="Selenium" width="35px" height="35px"></a>
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" height="42"></a></code>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="java" width="35" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="java" width="45" height="40"/>
