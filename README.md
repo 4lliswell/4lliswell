@@ -19,7 +19,7 @@
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="42px" height="42px"></a>
 <a href="" title="Java JDBC"><img src="https://shohidul.github.io/img/techlogos/java-jdbc.png" alt="Java JDBC" width="72px" height="42px"></a>
 <a href="https://www.postman.com/" title="Postman"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42px" height="42px"></a>
-<a href="https://www.postman.com/" title="API"><img src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" alt="API" width="45px" height="45px"></a>
+<a href="" title="API"><img src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" alt="API" width="47px" height="47px"></a>
 
 
 
