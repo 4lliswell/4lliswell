@@ -6,6 +6,7 @@
 </div>
 
 <p align="center">
+<a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="45px" height="45px"></a>
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="50px" height="50px"></a>
 <a href="https://www.selenium.dev/" title="Selenium"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/selenium.svg" alt="Selenium" width="35px" height="35px"></a>
 <a href="https://github.com/" title="GitHub"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" alt="GitHub" width="40px" height="40px"></a>
