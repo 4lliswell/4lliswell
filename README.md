@@ -25,6 +25,9 @@
 <a href="" title="Java JDBC"><img src="https://shohidul.github.io/img/techlogos/java-jdbc.png" alt="Java JDBC" width="72px" height="42px"></a>
 <a href="https://www.postman.com/" title="Postman"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42px" height="42px"></a>
 <a href="" title="API"><img src="https://dopetgztsfho3.cloudfront.net/rest_api_4dbecd5f01.webp" alt="API" width="50px" height="47px"></a>
+<a href="http://appium.io/docs/en/2.1/" title="Appium"><img src="https://vectorwiki.com/images/vlMCF__appium.svg" alt="Appium" width="50px" height="47px"></a>
+
+
 
 
 
