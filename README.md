@@ -1,17 +1,26 @@
 ## Hi there 👋        
 <div align="center">                                              
-                                                                                                         
-                                                                                                                                                                                                 
-                                                                          
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)                
+                                                            
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) 
+
+</div> 
                                                
-                                                                                                    
-</div>                                                                               
-                            
-<p align="center">   
-<a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="42px" height="42px"></a>
+## Tech I Use:                                                                                                  
+                                                                                                      
+<p align="center">
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="50px" height="50px"></a>
 <a href="https://www.selenium.dev/" title="Selenium"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/selenium.svg" alt="Selenium" width="35px" height="35px"></a>
+<a href="https://cucumber.io/" title="Cucumber"><img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="Cucumber" width="35px" height="35px"></a>
+
+
+
+</p>
+
+## Tools I Use: 
+  
+<a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="42px" height="42px"></a>
+
+
 <a href="https://github.com/" title="GitHub"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" alt="GitHub" width="40px" height="40px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40px" height="40px"></a>
 <a href="https://www.atlassian.com/software/jira" title="Jira"><img src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" alt="Jira" width="40px" height="40px"></a>
@@ -28,7 +37,7 @@
 <a href="http://appium.io/docs/en/2.1/" title="Appium"><img src="https://vectorwiki.com/images/vlMCF__appium.svg" alt="Appium" width="50px" height="47px"></a>
 <a href="https://jmeter.apache.org/" title="JMeter"><img src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" width="85px" height="47px"></a>
 
-
+ 
 
 
 
