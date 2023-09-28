@@ -12,6 +12,7 @@
 <a href="https://www.selenium.dev/" title="Selenium"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/selenium.svg" alt="Selenium" width="40px" height="40px"></a>
 <a href="https://cucumber.io/" title="Cucumber"><img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="Cucumber" width="40px" height="40px"></a>
 <a href="https://testng.org/doc/" title="TestNG"><img src="https://plugins.jetbrains.com/files/21606/369492/icon/pluginIcon.svg" alt="TestNG" width="50px" height="50px"></a>
+<a href="https://junit.org/" title="TestNG"><img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="TestNG" width="50px" height="50px"></a>
 <a href="http://appium.io/docs/en/2.1/" title="Appium"><img src="https://vectorwiki.com/images/vlMCF__appium.svg" alt="Appium" width="45px" height="45px"></a>
 <a href="" title="API"><img src="https://dopetgztsfho3.cloudfront.net/rest_api_4dbecd5f01.webp" alt="API" width="45px" height="42px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40px" height="40px"></a>
