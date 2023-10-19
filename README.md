@@ -7,7 +7,7 @@
 </div>                
                                                                     
 ## Tech I Use:                                                                                                                    
-                                                                                                             
+                                                                                                                
 <p align="center">
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="55px" height="55px"></a>
 <a href="https://www.selenium.dev/" title="Selenium"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/selenium.svg" alt="Selenium" width="40px" height="40px"></a>
